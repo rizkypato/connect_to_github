@@ -1,3 +1,5 @@
 Ini text dari branch ujang
 
 ini tambahan dari ujang
+
+text ini ditambahkan secara langsung di github
